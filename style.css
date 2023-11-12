@@ -1,0 +1,32 @@
+.clicked1 {
+    background-color: #b1cdbd;
+    color: #222747;
+  }
+.clicked2 {
+    background-color: #222747;
+    color: #b1cdbd;
+  }
+  .button {
+    display: inline-block;
+    background: #2196f3;
+    color: #fff;
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 200;
+    cursor: pointer;
+  }
+  .image-container {
+    width: 80%; /* або будь-яке інше значення, що вам подобається */
+    max-width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 10px auto; /* для додавання відступів між контейнерами */
+  }
+
