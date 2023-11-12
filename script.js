@@ -1,4 +1,3 @@
-// script.js
 document.addEventListener("DOMContentLoaded", function () {
     let elementId = (30 % 10) + 1;
     let ElementClicked = false;
